@@ -3,7 +3,7 @@
 ## INDICE
 
 * [1. Intro](https://github.com/BeelzAnn/clonacion.de.google/blob/main/README.md#1-intro)
-* [2. Que construi](https://github.com/BeelzAnn/clonacion.de.google/edit/main/README.md#2-que-contrui)
+* [2. Que construi](https://github.com/BeelzAnn/clonacion.de.google/blob/main/README.md#2-que-contrui)
 * [3. Objetivos del proyecto](https://github.com/BeelzAnn/clonacion.de.google/edit/main/README.md#2-que-contrui)
 
 ****
